@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="124" viewBox="0 0 124 124">
+  <g id="Group_9723" data-name="Group 9723" transform="translate(-246.5 -3757)">
+    <g id="Ellipse_813" data-name="Ellipse 813" transform="translate(246.5 3757)" fill="#363535" stroke="#707070" stroke-width="1">
+      <circle cx="62" cy="62" r="62" stroke="none"/>
+      <circle cx="62" cy="62" r="61.5" fill="none"/>
+    </g>
+    <g id="microphone_2_" data-name="microphone(2)" transform="translate(225.316 3789.584)" opacity="0.79">
+      <path id="Path_18539" data-name="Path 18539" d="M140.463,18.692V36.137H120V18.692a10.242,10.242,0,1,1,20.463,0Z" transform="translate(-47.047 -6.721)" fill="#cce4ff"/>
+      <g id="Group_7882" data-name="Group 7882" transform="translate(64)">
+        <path id="Path_18540" data-name="Path 18540" d="M112,29.416a11.519,11.519,0,1,0,23.021,0V11.971a11.519,11.519,0,1,0-23.021,0Zm11.511,9.413a9.124,9.124,0,0,1-8.861-8.134h17.72A9.122,9.122,0,0,1,123.511,38.829Zm0-36.271a9.2,9.2,0,0,1,8.953,9.413V28.137H114.558V11.971A9.2,9.2,0,0,1,123.511,2.558Z" transform="translate(-104.326)" fill="#007aff"/>
+        <path id="Path_18541" data-name="Path 18541" d="M75.511,177.253a1.279,1.279,0,0,0,0,2.558H90.858a1.279,1.279,0,0,0,0-2.558H84.463v-7.739a19.193,19.193,0,0,0,17.905-19.119v-5.116a1.279,1.279,0,1,0-2.558,0v5.116a16.626,16.626,0,0,1-33.253,0v-5.116a1.279,1.279,0,1,0-2.558,0v5.116a19.193,19.193,0,0,0,17.905,19.119v7.739Z" transform="translate(-64 -120.979)" fill="#007aff"/>
+      </g>
+    </g>
+  </g>
+</svg>

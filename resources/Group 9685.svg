@@ -1,0 +1,43 @@
+<svg id="Group_9685" data-name="Group 9685" xmlns="http://www.w3.org/2000/svg" width="71.45" height="75.399" viewBox="0 0 71.45 75.399">
+  <circle id="Ellipse_467" data-name="Ellipse 467" cx="33.383" cy="33.383" r="33.383" transform="translate(4.684 8.632)" fill="#eff94a"/>
+  <g id="Group_8528" data-name="Group 8528">
+    <g id="Group_8511" data-name="Group 8511" transform="translate(0 0)">
+      <path id="Path_68463" data-name="Path 68463" d="M-351.973,34.679s5.286,3.1,8.386,1.613a8.206,8.206,0,0,0,4.956-5.638c.791-2.506.539-9.57-6.335-12s-13.208,2.426-13.208,2.426a16.667,16.667,0,0,0-5.256,14.422" transform="translate(371.776 -17.978)" fill="#552001"/>
+      <path id="Path_68464" data-name="Path 68464" d="M7581.922-15461.74s2,4.543,3.387,5.525,20.632,18.256,23.089,24.887.623,23.406-14.572,28.725c-5.148.424-14.856,0-14.856,0h-16.63l13.841-7.117h14.8s9.868-2.795,10.362-10.693-3.455-13.977-17.352-24.09-13.363-16.242-13.363-16.242" transform="translate(-7562.339 15477.813)" fill="#552001"/>
+    </g>
+    <g id="Group_8527" data-name="Group 8527" transform="translate(31.587 18.567)">
+      <path id="Path_68463-2" data-name="Path 68463" d="M-357.452,30.674s4.018,2.353,6.375,1.226a6.238,6.238,0,0,0,3.767-4.286,7.622,7.622,0,0,0-4.815-9.119c-5.225-1.844-10.041,1.844-10.041,1.844s-5.694,4.49-4.874,11.559" transform="translate(371.54 -17.978)" fill="red"/>
+      <path id="Path_68464-2" data-name="Path 68464" d="M7575.53-15464.942s2.174,4.959,3.231,5.709,15.684,13.877,17.551,18.922,1.5,17.205-10.049,21.244c-3.914.322-11.294,0-11.294,0l-12.646-.025a36.623,36.623,0,0,0,5.17-2.627,20.082,20.082,0,0,0,3.7-3.1l12.908.342s6.473-1.537,6.849-7.539-2.626-10.627-13.189-18.314-10.95-11.555-10.95-11.555" transform="translate(-7562.324 15475.752)" fill="red"/>
+    </g>
+    <line id="Line_363" data-name="Line 363" y2="39.538" transform="translate(16.326 28.603)" fill="none" stroke="#552001" stroke-width="1"/>
+    <path id="Path_68465" data-name="Path 68465" d="M0,0V35.238" transform="translate(22.147 32.903)" fill="none" stroke="#552001" stroke-width="1"/>
+    <line id="Line_365" data-name="Line 365" y2="30.563" transform="translate(27.969 37.578)" fill="none" stroke="#552001" stroke-width="1"/>
+    <line id="Line_366" data-name="Line 366" y2="22.801" transform="translate(33.791 42.914)" fill="none" stroke="#552001" stroke-width="1"/>
+    <line id="Line_367" data-name="Line 367" y2="24.499" transform="translate(50.042 45.582)" fill="none" stroke="red" stroke-width="1"/>
+    <line id="Line_368" data-name="Line 368" y2="19.183" transform="translate(55.864 50.171)" fill="none" stroke="red" stroke-width="1"/>
+    <g id="Rectangle_5555" data-name="Rectangle 5555" transform="translate(14.506 35.516)" fill="#552001" stroke="#552001" stroke-width="1">
+      <rect width="3.638" height="2.183" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2.638" height="1.183" fill="none"/>
+    </g>
+    <g id="Rectangle_5556" data-name="Rectangle 5556" transform="translate(20.328 39.64)" fill="#552001" stroke="#552001" stroke-width="1">
+      <rect width="3.638" height="2.183" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2.638" height="1.183" fill="none"/>
+    </g>
+    <g id="Rectangle_5557" data-name="Rectangle 5557" transform="translate(26.15 44.006)" fill="#552001" stroke="#552001" stroke-width="1">
+      <rect width="3.638" height="2.183" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2.638" height="1.183" fill="none"/>
+    </g>
+    <g id="Rectangle_5558" data-name="Rectangle 5558" transform="translate(31.971 48.372)" fill="#552001" stroke="#552001" stroke-width="1">
+      <rect width="3.638" height="2.183" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2.638" height="1.183" fill="none"/>
+    </g>
+    <g id="Rectangle_5559" data-name="Rectangle 5559" transform="translate(48.223 50.798)" fill="red" stroke="red" stroke-width="1">
+      <rect width="3.638" height="2.183" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2.638" height="1.183" fill="none"/>
+    </g>
+    <g id="Rectangle_5560" data-name="Rectangle 5560" transform="translate(54.045 55.649)" fill="red" stroke="red" stroke-width="1">
+      <rect width="3.638" height="2.183" stroke="none"/>
+      <rect x="0.5" y="0.5" width="2.638" height="1.183" fill="none"/>
+    </g>
+  </g>
+</svg>
