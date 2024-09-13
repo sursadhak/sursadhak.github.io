@@ -48,16 +48,17 @@ permalink: /acccount-deletion-form/
 
 <h2>Account/Data Deletion Form</h2>
 
-<form id="deletionForm">
+<form id="deletionForm" target="mailFrame" action="mailto:support@asterbyte.com" method="post" enctype="text/plain">
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required><br><br>
 
-    <label for="product">Product:</label>
+    <label for="product">Product:</label>   
+
     <select id="product" name="product" required>
         <option value="Poetiq">Poetiq</option>
         <option value="SurSadhak">SurSadhak</option>
-        <option value="JokesZen">Jokes Zen</option>
-        <option value="TanpuraSadhak">Tanpura Sadhak</option>
+        <option value="JokesZen">JokesZen</option>
+        <option value="TanpuraSadhak">TanpuraSadhak</option>
     </select><br><br>
 
     <label for="email">Email:</label>
@@ -69,8 +70,10 @@ permalink: /acccount-deletion-form/
         <option value="Delete Data and Account">Delete Data and Account</option>
     </select><br><br>
 
-    <button type="button" onclick="sendEmail()">Submit</button>
+    <input type="submit" value="Submit">
 </form>
+
+<iframe name="mailFrame" id="mailFrame"></iframe>
 
 <script>
     function sendEmail() {
