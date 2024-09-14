@@ -44,44 +44,5 @@ permalink: /acccount-deletion-form/
 
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeka8iGwpZiAJQxGNDXMTYxqU2BW2lYdcWy_mp6iedheErybw/viewform?embedded=true" width="640" height="1074" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-    <h1>Account/Data Deletion Form</h1>
-    <p>Email this information to support at asterbyte dot com.</p>
-    <form id="deletionForm">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required><br><br>
-
-        <label for="product">Product:</label>
-        <select id="product" name="product" required>
-            <option value="Poetiq">Poetiq</option>
-            <option value="SurSadhak">SurSadhak</option>
-            <option value="JokesZen">JokesZen</option>
-            <option value="TanpuraSadhak">TanpuraSadhak</option>
-        </select><br><br>
-
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required><br><br>
-
-        <label for="type">Type:</label>
-        <select id="type" name="type" required>
-            <option value="Delete Data">Delete Data</option>
-            <option value="Delete Data and Account">Delete Data and Account</option>
-        </select><br><br>
-
-        <button type="button" onclick="sendEmail()">Submit</button>
-    </form>
-
-    <script>
-        function sendEmail() {
-            const name = document.getElementById("name").value;
-            const product = document.getElementById("product").value;
-            const email = document.getElementById("email").value;
-            const type = document.getElementById("type").value;
-
-            const subject = "Account/Data Deletion Request";
-            const body = `Name: ${name}\nProduct: ${product}\nEmail: ${email}\nType: ${type}`;
-
-            window.location.href = `mailto:support@asterbyte.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
-        }
-    </script>
 </body>
 </html>
