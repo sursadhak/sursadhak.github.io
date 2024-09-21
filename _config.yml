@@ -1,2 +1,3 @@
 title: SurSadhak
 theme: minima
+include: [".well-known"]
