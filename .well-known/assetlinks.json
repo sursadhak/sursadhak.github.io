@@ -1,0 +1,6 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.sursadhak",
+               "sha256_cert_fingerprints": ["3E:D2:D7:C0:2E:7C:FE:5E:41:92:6B:A6:F1:9B:D5:8F:30:3B:0A:9B:25:AB:9D:78:DE:D1:60:68:7C:44:33:B3"] }
+}]
+
